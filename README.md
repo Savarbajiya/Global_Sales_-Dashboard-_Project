@@ -1,5 +1,8 @@
 # Global_Sales_-Dashboard-_Project
 Sales Dashboard Using Power BI
+
+![Uploading image.png…]()
+
 Project Overview:
 This project involves creating an interactive Power BI Sales Dashboard using the Global Superstore sales data. The dashboard provides insightful visualizations to help understand global sales trends and key metrics.
 
